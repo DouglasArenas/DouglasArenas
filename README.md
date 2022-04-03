@@ -19,5 +19,5 @@
   </a>
 </p>
 <p align="center">
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasArenas&layout=compact&langs_count=7&theme=chartreuse-light"/>
 </p>
