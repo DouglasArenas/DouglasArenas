@@ -11,7 +11,11 @@
   <a href="https://steamcommunity.com/profiles/76561199036829907/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://user-images.githubusercontent.com/65192923/161411316-7cfe5597-1c0b-46ba-93dc-308036c19b63.png" alt="Douglas_steam" height="35px" width="35px" />
   </a>
+  <a href="" target="blank">
+    <img aling="center" src="https://user-images.githubusercontent.com/65192923/161411863-e98df321-4fc5-4068-869d-4adb213b51a1.png" alt="Douglas_ig" height="35px" width="35px" />
+  </a>
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasArenas&layout=compact&langs_count=7&theme=chartreuse-light"/>
 </p>
+  
