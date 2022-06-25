@@ -12,7 +12,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/65192923/161411316-7cfe5597-1c0b-46ba-93dc-308036c19b63.png" alt="Douglas_steam" height="35px" width="35px" />
   </a>
   <a href="" target="blank">
-    <img aling="center" src="https://user-images.githubusercontent.com/65192923/161411863-e98df321-4fc5-4068-869d-4adb213b51a1.png" alt="Douglas_ig" height="35px" width="35px" />
+    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411863-e98df321-4fc5-4068-869d-4adb213b51a1.png" alt="Douglas_ig" height="35px" width="35px" />
   </a>
 </p>
 <p align="center">
