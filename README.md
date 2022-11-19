@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Douglas Arenas
 
-- Im a computer science engineering student at the **Universidad de Mendoza**.
+- Im a informatics engineering student at the **Universidad de Mendoza**.
 - 🔭 I’m currently working on **me** (studying)
 - 🌱 I’m currently learning **python, sql, html, css, javascript**
 - 📫 How to reach me:
