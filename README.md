@@ -6,16 +6,16 @@
 - 📫 How to reach me:
 <p align="center">
   <a href="https://www.instagram.com/arenas_douglas/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411863-e98df321-4fc5-4068-869d-4adb213b51a1.png" alt="Douglas_ig" height="35px" width="35px" />
+    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411863-e98df321-4fc5-4068-869d-4adb213b51a1.png" alt="Douglas_ig" height="40px" width="40px" />
   </a>
   <a href="https://www.linkedin.com/in/douglas-arenas-078b53232/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/65192923/161412096-c041ebcb-5bc1-4777-9cbd-4160f8e2f309.png" alt="Douglas_in" height="35px" width="35px" />
+    <img align="center" src="https://user-images.githubusercontent.com/65192923/161412096-c041ebcb-5bc1-4777-9cbd-4160f8e2f309.png" alt="Douglas_in" height="40px" width="40px" />
   </a>
   <a href="https://twitter.com/douglasarenas71" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411604-7336081a-37c2-478b-a729-a142b7434406.png" alt="Douglas_tw" height="35px" width="35px" />
+    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411604-7336081a-37c2-478b-a729-a142b7434406.png" alt="Douglas_tw" height="40px" width="40px" />
   </a>
   <a href="https://steamcommunity.com/profiles/76561199036829907/" target="_blank" style='margin-right:4px'>
-    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411316-7cfe5597-1c0b-46ba-93dc-308036c19b63.png" alt="Douglas_steam" height="35px" width="35px" />
+    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411316-7cfe5597-1c0b-46ba-93dc-308036c19b63.png" alt="Douglas_steam" height="40px" width="40px" />
   </a>
 </p>
 <!--
@@ -23,8 +23,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasArenas&layout=compact&langs_count=7&theme=chartreuse-light"/>
 </p>
 -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="left">Languages:</h3>
+<p align="left">  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
@@ -53,10 +66,7 @@
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a> 
@@ -71,6 +81,12 @@
   </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
 </p>
 
