@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning **python, sql, html, css, javascript, java**
 - 📫 How to reach me:
 <p align="center">
-  <a href="https://www.instagram.com/arenas_douglas/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411863-e98df321-4fc5-4068-869d-4adb213b51a1.png" alt="Douglas_ig" height="40px" width="40px" />
-  </a>
   <a href="https://www.linkedin.com/in/douglas-arenas-078b53232/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/65192923/161412096-c041ebcb-5bc1-4777-9cbd-4160f8e2f309.png" alt="Douglas_in" height="40px" width="40px" />
+  </a>
+  <a href="https://www.instagram.com/arenas_douglas/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411863-e98df321-4fc5-4068-869d-4adb213b51a1.png" alt="Douglas_ig" height="40px" width="40px" />
   </a>
   <a href="https://twitter.com/douglasarenas71" target="_blank">
     <img align="center" src="https://shorturl.at/mnPS9" alt="Douglas_tw" height="40px" width="40px" />
