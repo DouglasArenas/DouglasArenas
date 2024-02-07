@@ -12,7 +12,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/65192923/161412096-c041ebcb-5bc1-4777-9cbd-4160f8e2f309.png" alt="Douglas_in" height="40px" width="40px" />
   </a>
   <a href="https://twitter.com/douglasarenas71" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/65192923/161411604-7336081a-37c2-478b-a729-a142b7434406.png" alt="Douglas_tw" height="40px" width="40px" />
+    <img align="center" src="https://shorturl.at/mnPS9" alt="Douglas_tw" height="40px" width="40px" />
   </a>
   <a href="https://steamcommunity.com/profiles/76561199036829907/" target="_blank" style='margin-right:4px'>
     <img align="center" src="https://user-images.githubusercontent.com/65192923/161411316-7cfe5597-1c0b-46ba-93dc-308036c19b63.png" alt="Douglas_steam" height="40px" width="40px" />
