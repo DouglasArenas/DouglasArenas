@@ -6,13 +6,13 @@
 - 📫 How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/douglas-arenas-078b53232/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/65192923/161412096-c041ebcb-5bc1-4777-9cbd-4160f8e2f309.png" alt="Douglas_in" height="40px" width="40px" />
+    <img align="center" src="https://user-images.githubusercontent.com/65192923/161412096-c041ebcb-5bc1-4777-9cbd-4160f8e2f309.png" alt="Douglas_li" height="40px" width="40px" />
   </a>
   <a href="https://www.instagram.com/arenas_douglas/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/65192923/161411863-e98df321-4fc5-4068-869d-4adb213b51a1.png" alt="Douglas_ig" height="40px" width="40px" />
   </a>
-  <a href="https://twitter.com/douglasarenas71" target="_blank">
-    <img align="center" src="https://shorturl.at/mnPS9" alt="Douglas_tw" height="40px" width="40px" />
+  <a href="https://x.com/douglasarenas71" target="_blank">
+    <img align="center" src="https://private-user-images.githubusercontent.com/65192923/302815254-a708761f-976f-4a78-bf09-c3d50eec26c3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkxMDAwMzAsIm5iZiI6MTcxOTA5OTczMCwicGF0aCI6Ii82NTE5MjkyMy8zMDI4MTUyNTQtYTcwODc2MWYtOTc2Zi00YTc4LWJmMDktYzNkNTBlZWMyNmMzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjIyVDIzNDIxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3ZjhkMmUyNjJmN2YyYmE2ODI5N2Y5NWM3ZTNlMzJhNzdiNDhkMzQwODY3ZDhkN2E2ZWNiYTRjNjU5NTgzMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.VhX5T7pkwmIms0QxAhW2xJKYdwyCwYahZdnbgywFL-g" alt="Douglas_x" height="40px" width="40px" />
   </a>
   <a href="https://steamcommunity.com/profiles/76561199036829907/" target="_blank" style='margin-right:4px'>
     <img align="center" src="https://user-images.githubusercontent.com/65192923/161411316-7cfe5597-1c0b-46ba-93dc-308036c19b63.png" alt="Douglas_steam" height="40px" width="40px" />
