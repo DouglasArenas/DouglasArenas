@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Douglas Arenas
 
-- Im a informatics engineering student at the **Universidad de Mendoza**.
-- 🔭 I’m currently working on **me** (studying)
-- 🌱 I’m currently learning **python, sql, html, css, javascript, java**
+- Im a informatics engineering.
+- 🔭 I’m currently working on **python development**
+- 🌱 I’m currently learning **python, sql, machine learning, deep learnig**
 - 📫 How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/douglas-arenas-078b53232/" target="_blank">
