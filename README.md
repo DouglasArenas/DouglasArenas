@@ -88,5 +88,9 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  
 </p>
 
